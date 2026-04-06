@@ -35,4 +35,4 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Project-Jay)# Jay-Profile
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Project-Jay&show_icons=true)
